@@ -3,4 +3,4 @@
 
  minha pagina
 
- https://lovatoft.github.io/html-css/exercicios/Desafio%2010/android.html#
+ https://lovatoft.github.io/html-css/exercicios/desafio10/android.html

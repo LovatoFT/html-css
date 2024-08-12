@@ -1,7 +1,7 @@
 # html-css
  Curso HTML e CSS
 
- minha pagina
+ Minhas páginas
 
  <a href="https://lovatoft.github.io/html-css/exercicios/desafio10/android.html">Desafio 10</a>
 

@@ -11,7 +11,7 @@
 
 <a href="https://lovatoft.github.io/html-css/exercicios/Ex025/form004.html">Exercicios</a>
 
-<a href="https://lovatoft.github.io/desafio-netuno/modelo%202/menu-responsivo/index.html">Exercicios</a>
+<a href="https://lovatoft.github.io/desafio-netuno/modelo%202/menu-responsivo/index.html">Netuno</a>
 
 
 
